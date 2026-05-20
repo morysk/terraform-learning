@@ -19,7 +19,7 @@ The objectives and deliverables of this project are as follows:
 
 ### Project Structure 
 ```
-.
+
 ├── README.md 
 ├── images
 │   ├── db_sg_rules.png
